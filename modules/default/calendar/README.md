@@ -56,7 +56,7 @@ The following properties can be configured:
 		<tr>
 			<td><code>defaultSymbol</code></td>
 			<td>The default symbol.<br>
-				<br><b>Possible values:</b> See <a href="http://fontawesome.io/icons/" target="_blank">Font Awsome</a> website.
+				<br><b>Possible values:</b> See <a href="http://fontawesome.io/icons/" target="_blank">Font Awesome</a> website.
 				<br><b>Default value:</b> <code>calendar</code>
 			</td>
 		</tr>
